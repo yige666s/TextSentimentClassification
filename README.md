@@ -20,4 +20,3 @@
 
 ## step 5: 模型预测
 ### python test.py
->>>>>>> master
